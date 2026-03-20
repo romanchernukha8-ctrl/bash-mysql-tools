@@ -46,3 +46,5 @@ https://github.com/romanchernukha8-ctrl/bash-mysql-tools.git
 ```bash
 cp .env.example .env
 nano .env
+./select_users.sh
+./backup.sh
