@@ -13,6 +13,7 @@ It includes user authentication via database queries and automated database back
 
 # Architecture project
 
+```
 Developer
 ↓
 Bash Scripts
@@ -24,14 +25,17 @@ MySQL / MariaDB
 Database (users)
 ↓
 Output (Terminal / Backup files)
+```
 
 ## Project Structure
 
+```
 .
 ├── select_users.sh
 ├── backup.sh
 ├── .env.example
 └── README.md
+```
 
 # How to run
 
